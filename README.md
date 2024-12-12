@@ -28,7 +28,7 @@ https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/ssasett1_jh_edu/ErKWKE
 ### Results
 <div class="image-container">
   <img width="663" alt="image" src="https://github.com/user-attachments/assets/ac7e9948-5e1a-419a-9768-c2242f70cebb" />
-  <img width="120" alt="image" src="https://github.com/user-attachments/assets/2778d766-1cab-4ff8-8f87-c11553739233" />
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/2778d766-1cab-4ff8-8f87-c11553739233" />
 </div>
 
 
