@@ -26,7 +26,11 @@ pip install -r requirements.txt
 https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/ssasett1_jh_edu/ErKWKEvqoGtGqbZxS0z0t9wBf8N-JChZH38wO5Bpie35Lw?e=cKu6Zg
 
 ### Results
-<img width="663" alt="image" src="https://github.com/user-attachments/assets/ac7e9948-5e1a-419a-9768-c2242f70cebb" />
+<div class="image-container">
+  <img width="663" alt="image" src="https://github.com/user-attachments/assets/ac7e9948-5e1a-419a-9768-c2242f70cebb" />
+  <img width="320" alt="image" src="https://github.com/user-attachments/assets/2778d766-1cab-4ff8-8f87-c11553739233" />
+</div>
+
 
 
 ## Contributors
