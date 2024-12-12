@@ -11,9 +11,11 @@
 ```bash
 git clone https://github.com/Yogee07/Mental_Health_Causal_Analysis.git
 
+```bash
 cd your-repo-name
 # pip install -r requirements.txt
 
+```bash
 #Run the specific .ipynb for specific models
 
 ## Contributors
