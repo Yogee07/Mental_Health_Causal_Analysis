@@ -25,6 +25,10 @@ pip install -r requirements.txt
 ### Download the models from the link to run it
 https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/ssasett1_jh_edu/ErKWKEvqoGtGqbZxS0z0t9wBf8N-JChZH38wO5Bpie35Lw?e=cKu6Zg
 
+### Results
+<img width="663" alt="image" src="https://github.com/user-attachments/assets/ac7e9948-5e1a-419a-9768-c2242f70cebb" />
+
+
 ## Contributors
 * Shabeg Singh Gill ([shabeg19388](https://github.com/shabeg19388))
 * Suhas Sasetty ([suhas004](https://github.com/suhas004))
