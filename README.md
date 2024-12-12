@@ -2,7 +2,9 @@
 
 ## Description
 
-[A brief description of what your project does and its purpose.]
+* Train a multi-class classification model to identify the causes of mental illnesses from user-generated social media posts. 
+* Analyze posts using the CAMS dataset, with six causal categories: No Reason, Bias/Abuse, Jobs/Careers, Medication, Relationships, and Alienation.
+
 
 ## Getting Started
 
