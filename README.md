@@ -1,1 +1,24 @@
 # Mental_Health_Causal_Analysis
+
+## Description
+
+[A brief description of what your project does and its purpose.]
+
+## Getting Started
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/Yogee07/Mental_Health_Causal_Analysis.git
+
+cd your-repo-name
+# pip install -r requirements.txt
+
+#Run the specific .ipynb for specific models
+
+## Contributors
+* Shabeg Singh Gill ([shabeg19388](https://github.com/shabeg19388))
+* Suhas Sasetty ([suhas004](https://github.com/suhas004)) 
+* Anushka Singh ([anushkasingh03](https://github.com/anushkasingh03))
+* Yogeeshwar Selvaraj ([Yogee07](https://github.com/Yogee07/))
+
